@@ -14,7 +14,9 @@
 | Storage detection | Inland TN320 256 GB NVMe SSD recorded as detected | Exact model string and capacity reading still need the original image |
 | AMD CPU fTPM | Enabled in BIOS | Setting photo still needed; OS-level validation has not been performed |
 
-These results come from the retained **Learn Computer Repair** lab notes. The source images could not be retrieved during this update. The inventory values are retained specifications rather than newly measured results.
+These results come from the retained **Learn Computer Repair** lab notes. Twelve assembly and boot photos are now included in the [gallery](photo-gallery.md), but this batch contains no BIOS setup or fTPM screens. The firmware results and inventory values remain retained lab notes rather than readings newly verified from a photo.
+
+`IMG_8690.jpeg` shows a firmware boot-device prompt on the monitor. This confirms display output at that boot stage. It does not show CPU/RAM/NVMe detection, an enabled fTPM setting, a usable OS boot target, or a completed OS installation.
 
 ## AMD CPU fTPM configuration
 
